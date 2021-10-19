@@ -1,8 +1,8 @@
-## Oiii! Eu sou o João Malvino
+## Seja bem Vindo! Eu sou o João Malvino
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando javascript
-- 😄 Pronouns: Ele
+- 😄 Pronouns: Ele/Dele
 
 ##
 
