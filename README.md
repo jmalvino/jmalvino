@@ -1,7 +1,7 @@
 ## Seja bem Vindo! Eu sou o João Malvino
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando javascript
+- 🌱 Flutter Developer
 - 😄 Pronouns: Ele/Dele
 
 ##
